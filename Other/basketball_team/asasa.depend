@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1661282128 source:c:\asasa\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

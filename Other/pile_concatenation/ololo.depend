@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662600527 source:c:\ololo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

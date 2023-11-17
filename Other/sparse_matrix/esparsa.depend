@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669336564 source:c:\esparsa\main.c
+	<stdio.h>
+	<stdlib.h>
+
